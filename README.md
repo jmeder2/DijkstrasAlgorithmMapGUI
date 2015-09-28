@@ -1,4 +1,4 @@
-# Dijkstras Algorithm Map GUI
+# Dijkstra's Algorithm Map GUI
 
 This is a graphical user interface that allows you to add any cities, and also add roads linking two cities and how long the road is in miles. Finally, the program applies Dijkstra's algorithm to your queries of finding the shortest path between two cities.
 
