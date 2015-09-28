@@ -6,10 +6,10 @@ First thing to note of all, this program is a GUI application, so make sure you 
 
 There are 4 classes in the this folder: 
 
-*Calculator.java
-*City.java
-*Road.java
-*Dijkstras.java
+* Calculator.java
+* City.java
+* Road.java
+* Dijkstras.java
 
 Make sure to have them all in the same folder. Dijkstras.java is a runner class, so compile all 4 classes and run Dijkstras to begin my submission.
 
