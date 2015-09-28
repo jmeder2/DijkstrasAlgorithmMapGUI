@@ -18,6 +18,3 @@ What you will see is a scrollable list of pre-defined cities, plus the ability t
 You can add any new city, just no cities with duplicate names. And when adding a new road, both cities entered must exist already.
 
 To begin my calculator, simply fill in the initial city in the “City 1” text field, and the destination city in the “City 2” text field and hit the ‘Calculate’ button.
-
-Thank you,
-Joshua Medernach
